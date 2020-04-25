@@ -1,1 +1,1 @@
-# EmbSytProj
+# EmbSysProj
